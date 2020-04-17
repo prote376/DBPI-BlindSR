@@ -28,4 +28,4 @@ python train.py -i test_images/ -o Results/ --X4
 ```
 
 ## Examples
-
+![Supplementary](https://user-images.githubusercontent.com/10805291/79537176-b0677a80-80bc-11ea-89cc-cad166e04eaa.jpg)
