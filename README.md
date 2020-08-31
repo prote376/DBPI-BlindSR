@@ -1,15 +1,7 @@
 # DBPI-BlindSR
 This code is official implementation of our paper. Please cite the below paper if this code is helpful.
 
-@article{kim2020dual,
-  title={Dual Back-Projection-Based Internal Learning for Blind Super-Resolution},
-  author={Kim, Jonghee and Jung, Chanho and Kim, Changick},
-  journal={IEEE Signal Processing Letters},
-  volume={27},
-  pages={1190--1194},
-  year={2020},
-  publisher={IEEE}
-}
+Jonghee Kim, Chanho Jung, Changick Kim, "Dual Back-Projection-Based Internal Learning for Blind Super-Resolution," IEEE Signal Processing Letters, vol. 27, pp. 1190-1194, Jun. 2020.
 
 This code is based on KernelGAN (https://github.com/sefibk/KernelGAN)
 
